@@ -56,6 +56,5 @@ The app comes in with both, light and dark themes for visibility ease.
 
 
 
-Developer by Seyed owns the right to this app.
 
 *Thanks!*
