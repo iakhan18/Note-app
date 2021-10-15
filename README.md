@@ -1,21 +1,3 @@
-# NOTED - Don't Bother Remembering
-![NOTED logo](https://github.com/seyed-sabbagh/NOTE/blob/master/pictures/logo.png)
-
-
-**NOTED - Don't Bother Remembering**
-
-
-**NOTED - Don't Bother Remembering** has been developed for android devices and is your all-in-one solution to take, save & share notes. **NOTED** comes in with a clean and simple user interface and provides a fluid user experience during note taking, the best part being note sharing feature. Let's dive into details of what else it can bring in picture.
-
-Well, to begin with, **NOTED** gives you a clean interface to add note with title, subtitle and note's body. Then again, you can add color to your note. You can then add image to your note. **NOTED** provides you with two ways to add image - Take photo via device's camera and choose image from gallery. After choosing a picture, you can edit it - crop, scale or rotate. You can also add web links (URLs) to your note. You can add voice note also in case you hate typing ;)
-
-After adding all these, you can save your note and display it. You can also search for any saved note. You can then make **NOTED** read the note for you and it will literally dictate it for you. You can delete any saved note (if you think that's of no use anymore). You can share any note via various social media platforms - **NOTED** will also share the image (if your note contains one).
-
-You can edit any note anytime you want - Change color, change or remove image, edit or remove web link (URL) and much more. There are quick actions on the home page itself to add to your ease.
-
-The app comes in with both, light and dark themes for visibility ease.
-
-
 
 
 **App Features :**
